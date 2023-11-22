@@ -1,0 +1,236 @@
+<div class="div">
+  <div class="div-2">erindma portofolio</div>
+  <div class="div-3">
+    <div class="div-4">
+      <div class="column">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/c7edac30-253a-40b7-8aa3-b2e3b14b5938?apiKey=291d4569c0204f95b9dd2c9609580df5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/c7edac30-253a-40b7-8aa3-b2e3b14b5938?apiKey=291d4569c0204f95b9dd2c9609580df5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/c7edac30-253a-40b7-8aa3-b2e3b14b5938?apiKey=291d4569c0204f95b9dd2c9609580df5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/c7edac30-253a-40b7-8aa3-b2e3b14b5938?apiKey=291d4569c0204f95b9dd2c9609580df5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/c7edac30-253a-40b7-8aa3-b2e3b14b5938?apiKey=291d4569c0204f95b9dd2c9609580df5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/c7edac30-253a-40b7-8aa3-b2e3b14b5938?apiKey=291d4569c0204f95b9dd2c9609580df5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/c7edac30-253a-40b7-8aa3-b2e3b14b5938?apiKey=291d4569c0204f95b9dd2c9609580df5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/c7edac30-253a-40b7-8aa3-b2e3b14b5938?apiKey=291d4569c0204f95b9dd2c9609580df5&"
+          class="img"
+        />
+      </div>
+      <div class="column-2">
+        <div class="div-5">
+          <div class="div-6">Tentang saya</div>
+          <div class="div-7">
+            Halo, saya Ervadiella Indah Mawaddah, seorang mahasiswi semester 5
+            <br />
+            di jurusan Desain Komunikasi Visual (DKV) di Institut Teknologi Bata
+            <br />
+            Saya dengan penuh semangat mengejar impian saya dalam dunia
+            <br />
+            kreatif sebagai seorang ilustrator.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="div-8">Portofolio</div>
+  <img
+    loading="lazy"
+    srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/10175bc2-c88b-4236-b109-67704874b051?apiKey=291d4569c0204f95b9dd2c9609580df5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/10175bc2-c88b-4236-b109-67704874b051?apiKey=291d4569c0204f95b9dd2c9609580df5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/10175bc2-c88b-4236-b109-67704874b051?apiKey=291d4569c0204f95b9dd2c9609580df5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/10175bc2-c88b-4236-b109-67704874b051?apiKey=291d4569c0204f95b9dd2c9609580df5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/10175bc2-c88b-4236-b109-67704874b051?apiKey=291d4569c0204f95b9dd2c9609580df5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/10175bc2-c88b-4236-b109-67704874b051?apiKey=291d4569c0204f95b9dd2c9609580df5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/10175bc2-c88b-4236-b109-67704874b051?apiKey=291d4569c0204f95b9dd2c9609580df5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/10175bc2-c88b-4236-b109-67704874b051?apiKey=291d4569c0204f95b9dd2c9609580df5&"
+    class="img-2"
+  />
+  <div class="div-9">Kontak saya</div>
+  <div class="div-10">ervadiella@gmail.com</div>
+  <div class="div-11">TERIMAKASIH!</div>
+</div>
+<style>
+  .div {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+  .div-2 {
+    color: #fff;
+    white-space: nowrap;
+    border-radius: 55px;
+    background-color: #000;
+    align-self: stretch;
+    width: 100%;
+    align-items: center;
+    padding: 33px 20px;
+    font: 400 48px/70px Karma, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      font-size: 40px;
+      line-height: 65px;
+      white-space: initial;
+      max-width: 100%;
+    }
+  }
+  .div-3 {
+    background-color: #000;
+    align-self: stretch;
+    margin-top: 147px;
+    width: 100%;
+    padding: 17px 80px;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      max-width: 100%;
+      margin-top: 40px;
+      padding: 0 20px;
+    }
+  }
+  .div-4 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 28%;
+    margin-left: 0px;
+  }
+  @media (max-width: 991px) {
+    .column {
+      width: 100%;
+    }
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 100%;
+    overflow: hidden;
+  }
+  @media (max-width: 991px) {
+    .img {
+      margin-top: 40px;
+    }
+  }
+  .column-2 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 72%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-2 {
+      width: 100%;
+    }
+  }
+  .div-5 {
+    display: flex;
+    flex-direction: column;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-5 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-6 {
+    color: #fff;
+    white-space: nowrap;
+    font: 700 36px/59px Karma, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-6 {
+      max-width: 100%;
+      white-space: initial;
+    }
+  }
+  .div-7 {
+    color: #fff;
+    margin-top: 35px;
+    font: 400 24px/35px Karma, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-7 {
+      max-width: 100%;
+    }
+  }
+  .div-8 {
+    color: #fff;
+    white-space: nowrap;
+    border-radius: 26.5px;
+    background-color: #000;
+    align-self: start;
+    margin-top: 142px;
+    width: 478px;
+    max-width: 100%;
+    align-items: center;
+    padding: 10px 20px 16px;
+    font: 700 36px/59px Karma, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-8 {
+      white-space: initial;
+      margin-top: 40px;
+    }
+  }
+  .img-2 {
+    aspect-ratio: 0.45;
+    object-fit: contain;
+    object-position: center;
+    width: 100%;
+    fill: #000;
+    overflow: hidden;
+    align-self: stretch;
+  }
+  @media (max-width: 991px) {
+    .img-2 {
+      max-width: 100%;
+    }
+  }
+  .div-9 {
+    color: #000;
+    align-self: center;
+    margin-top: 53px;
+    white-space: nowrap;
+    font: 700 36px/59px Karma, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-9 {
+      margin-top: 40px;
+      white-space: initial;
+    }
+  }
+  .div-10 {
+    color: #000;
+    align-self: center;
+    margin-top: 24px;
+    white-space: nowrap;
+    font: 400 36px/52px Karma, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-10 {
+      white-space: initial;
+    }
+  }
+  .div-11 {
+    color: #fff;
+    white-space: nowrap;
+    border-radius: 110.5px;
+    background-color: #000;
+    align-self: stretch;
+    margin-top: 44px;
+    width: 100%;
+    align-items: center;
+    padding: 98px 20px 87px;
+    font: 700 48px/78px Karma, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-11 {
+      font-size: 40px;
+      line-height: 73px;
+      white-space: initial;
+      max-width: 100%;
+      margin-top: 40px;
+      padding-top: 40px;
+    }
+  }
+</style>
